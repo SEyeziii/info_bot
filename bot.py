@@ -12,7 +12,7 @@ from aiogram import F
 logging.basicConfig(level=logging.INFO)
 
 # Объект бота
-bot = Bot(token="7133138529:AAFVdHFR4vlzWB5tQNMsouG4lLloV5vcy1w")
+bot = Bot(token="your token")
 
 # Диспетчер
 storage = MemoryStorage()
